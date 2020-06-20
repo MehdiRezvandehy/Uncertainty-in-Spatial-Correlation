@@ -1,0 +1,600 @@
+Semivariogram Model_Realization#1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+2    0.000                               -  nst, nugget effect
+2    0.041   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       988.310     1361.900     1361.900 -  a_hmax,a_hmin,a_vert
+1    0.959   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      3010.300     2859.000     2859.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+2    0.000                               -  nst, nugget effect
+2    0.022   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1207.900      853.880      853.880 -  a_hmax,a_hmin,a_vert
+1    0.978   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      6347.300     1811.400     1811.400 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+2    0.000                               -  nst, nugget effect
+2    0.237   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       916.690     1393.000     1393.000 -  a_hmax,a_hmin,a_vert
+1    0.763   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     22179.000     4166.000     4166.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+2    0.000                               -  nst, nugget effect
+2    0.107   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1053.000     1053.000     1053.000 -  a_hmax,a_hmin,a_vert
+1    0.893   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     15848.000     3446.400     3446.400 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+2    0.000                               -  nst, nugget effect
+2    0.167   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1071.400      787.190      787.190 -  a_hmax,a_hmin,a_vert
+1    0.833   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     23080.000    32213.000    32213.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#6                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+2    0.000                               -  nst, nugget effect
+2    0.200   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1022.500      778.270      778.270 -  a_hmax,a_hmin,a_vert
+1    0.800   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      5670.600      778.540      778.540 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+2    0.000                               -  nst, nugget effect
+2    0.381   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1382.200      961.620      961.620 -  a_hmax,a_hmin,a_vert
+1    0.619   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    584269.938    13542.000    13542.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+2    0.000                               -  nst, nugget effect
+2    0.057   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1198.700     1038.400     1038.400 -  a_hmax,a_hmin,a_vert
+1    0.943   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     10310.000     3733.200     3733.200 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#9                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+2    0.000                               -  nst, nugget effect
+2    0.187   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1237.500     1237.500     1237.500 -  a_hmax,a_hmin,a_vert
+1    0.813   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     13420.000     2740.300     2740.300 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#10                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.013   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1380.700     1018.400     1018.400 -  a_hmax,a_hmin,a_vert
+1    0.987   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     19768.000     6022.600     6022.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#11                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.247   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1172.000     1172.000     1172.000 -  a_hmax,a_hmin,a_vert
+1    0.753   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      6678.300     2663.300     2663.300 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#12                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.020   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1369.300     1002.100     1002.100 -  a_hmax,a_hmin,a_vert
+1    0.980   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     30438.000    18759.000    18759.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#13                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.071   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1260.700     1081.400     1081.400 -  a_hmax,a_hmin,a_vert
+1    0.929   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     23722.000     4164.600     4164.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#14                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.306   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1207.900      906.400      906.400 -  a_hmax,a_hmin,a_vert
+1    0.694   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     13130.000     2231.100     2231.100 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#15                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       911.400     1265.400     1265.400 -  a_hmax,a_hmin,a_vert
+1    1.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     10598.000     3063.800     3063.800 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#16                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.085   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       963.970      899.960      899.960 -  a_hmax,a_hmin,a_vert
+1    0.915   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    693429.938    12562.000    12562.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#17                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.213   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1020.800     1020.800     1020.800 -  a_hmax,a_hmin,a_vert
+1    0.787   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     39319.000    16219.000    16219.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#18                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.104   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1206.700     1365.300     1365.300 -  a_hmax,a_hmin,a_vert
+1    0.896   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     15795.000     7628.500     7628.500 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#19                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.346   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1205.600     1277.900     1277.900 -  a_hmax,a_hmin,a_vert
+1    0.654   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    320809.969     5660.900     5660.900 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#20                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.332   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1106.500      820.440      820.440 -  a_hmax,a_hmin,a_vert
+1    0.668   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     20210.000    23831.000    23831.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#21                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.526   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       902.570     1075.000     1075.000 -  a_hmax,a_hmin,a_vert
+1    0.474   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     10215.000     3125.900     3125.900 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#22                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.040   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1150.300     1020.100     1020.100 -  a_hmax,a_hmin,a_vert
+1    0.960   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     23929.000    14582.000    14582.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#23                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.014   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1097.400     1269.800     1269.800 -  a_hmax,a_hmin,a_vert
+1    0.986   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     12306.000     3322.100     3322.100 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#24                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.079   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1382.800     1235.500     1235.500 -  a_hmax,a_hmin,a_vert
+1    0.921   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     13707.000     4177.800     4177.800 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#25                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.355   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1371.100      791.720      791.720 -  a_hmax,a_hmin,a_vert
+1    0.645   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     31061.000      792.020      792.020 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#26                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.036   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1051.000     1243.400     1243.400 -  a_hmax,a_hmin,a_vert
+1    0.964   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      9000.900     3724.500     3724.500 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#27                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.051   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1240.100     1121.000     1121.000 -  a_hmax,a_hmin,a_vert
+1    0.949   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     23409.000    15424.000    15424.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#28                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.116   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       726.120     1158.300     1158.300 -  a_hmax,a_hmin,a_vert
+1    0.884   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    345819.969     9297.400     9297.400 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#29                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1370.100     1092.600     1092.600 -  a_hmax,a_hmin,a_vert
+1    1.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      8541.000     4432.000     4432.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#30                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.528   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1231.800     1322.800     1322.800 -  a_hmax,a_hmin,a_vert
+1    0.472   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     80697.000     5450.600     5450.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#31                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.205   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1131.200     1227.500     1227.500 -  a_hmax,a_hmin,a_vert
+1    0.795   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      9069.600    13532.000    13532.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#32                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.218   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1062.700     1324.800     1324.800 -  a_hmax,a_hmin,a_vert
+1    0.782   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     35094.000     3085.200     3085.200 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#33                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.181   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1221.800      982.480      982.480 -  a_hmax,a_hmin,a_vert
+1    0.819   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     14821.000     3923.600     3923.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#34                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.298   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1229.300     1229.300     1229.300 -  a_hmax,a_hmin,a_vert
+1    0.702   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     33094.000     2634.100     2634.100 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#35                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.216   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1325.400      724.520      724.520 -  a_hmax,a_hmin,a_vert
+1    0.784   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      7751.900     3068.500     3068.500 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#36                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.025   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1398.300     1217.000     1217.000 -  a_hmax,a_hmin,a_vert
+1    0.975   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      5921.700     2097.200     2097.200 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#37                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.068   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1122.600      798.160      798.160 -  a_hmax,a_hmin,a_vert
+1    0.932   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     21751.000    19641.000    19641.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#38                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.097   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1281.100      934.730      934.730 -  a_hmax,a_hmin,a_vert
+1    0.903   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     85489.000    15898.000    15898.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#39                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.210   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1041.500     1160.300     1160.300 -  a_hmax,a_hmin,a_vert
+1    0.790   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     31221.000     4259.100     4259.100 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#40                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.297   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       829.290      898.350      898.350 -  a_hmax,a_hmin,a_vert
+1    0.703   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     19692.000     3984.900     3984.900 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#41                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.199   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1163.200      899.480      899.480 -  a_hmax,a_hmin,a_vert
+1    0.801   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    315789.969    20712.000    20712.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#42                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.292   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1215.400      729.930      729.930 -  a_hmax,a_hmin,a_vert
+1    0.708   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     12031.000     8968.400     8968.400 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#43                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.289   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1330.000     1093.800     1093.800 -  a_hmax,a_hmin,a_vert
+1    0.711   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     28914.000     5915.800     5915.800 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#44                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.311   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1375.400     1375.400     1375.400 -  a_hmax,a_hmin,a_vert
+1    0.689   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     10075.000     4268.200     4268.200 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#45                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.086   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1016.800      912.710      912.710 -  a_hmax,a_hmin,a_vert
+1    0.914   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     16473.000     4965.900     4965.900 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#46                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.280   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1396.900     1211.100     1211.100 -  a_hmax,a_hmin,a_vert
+1    0.720   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     20829.000     7166.200     7166.200 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#47                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.128   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       829.960     1332.200     1332.200 -  a_hmax,a_hmin,a_vert
+1    0.872   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    158149.984    18740.000    18740.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#48                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.202   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1072.000     1072.000     1072.000 -  a_hmax,a_hmin,a_vert
+1    0.798   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     30553.000     4715.600     4715.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#49                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.289   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       898.650     1117.600     1117.600 -  a_hmax,a_hmin,a_vert
+1    0.711   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    641189.938     4385.500     4385.500 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#50                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.307   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       828.500     1379.600     1379.600 -  a_hmax,a_hmin,a_vert
+1    0.693   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      6051.000     2425.800     2425.800 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#51                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.563   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       836.680      915.720      915.720 -  a_hmax,a_hmin,a_vert
+1    0.437   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    516639.969      915.740      915.740 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#52                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.239   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1242.900     1242.900     1242.900 -  a_hmax,a_hmin,a_vert
+1    0.761   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     31788.000     7264.600     7264.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#53                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1343.100     1343.100     1343.100 -  a_hmax,a_hmin,a_vert
+1    1.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      8065.700     3425.800     3425.800 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#54                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.142   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1244.700     1109.000     1109.000 -  a_hmax,a_hmin,a_vert
+1    0.858   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     53972.000     5160.500     5160.500 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#55                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.213   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1107.400     1360.100     1360.100 -  a_hmax,a_hmin,a_vert
+1    0.787   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     11196.000     4042.700     4042.700 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#56                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.166   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1099.900     1239.300     1239.300 -  a_hmax,a_hmin,a_vert
+1    0.834   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     13914.000     4374.000     4374.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#57                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.124   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1037.100      939.730      939.730 -  a_hmax,a_hmin,a_vert
+1    0.876   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     10065.000     5073.700     5073.700 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#58                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.163   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       979.820     1063.700     1063.700 -  a_hmax,a_hmin,a_vert
+1    0.837   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    682239.938     4572.600     4572.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#59                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.597   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1196.600     1039.700     1039.700 -  a_hmax,a_hmin,a_vert
+1    0.403   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    293909.969     4233.800     4233.800 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#60                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.271   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       923.440     1303.700     1303.700 -  a_hmax,a_hmin,a_vert
+1    0.729   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     20538.000     4061.800     4061.800 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#61                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.190   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       753.630      935.840      935.840 -  a_hmax,a_hmin,a_vert
+1    0.810   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     22983.000     3241.400     3241.400 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#62                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.297   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1316.100     1316.100     1316.100 -  a_hmax,a_hmin,a_vert
+1    0.703   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     17683.000     2229.900     2229.900 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#63                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.019   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1122.400     1122.400     1122.400 -  a_hmax,a_hmin,a_vert
+1    0.981   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     25582.000    18162.000    18162.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#64                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.307   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1312.000     1213.000     1213.000 -  a_hmax,a_hmin,a_vert
+1    0.693   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     17292.000    13822.000    13822.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#65                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.721   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1007.000      801.340      801.340 -  a_hmax,a_hmin,a_vert
+1    0.279   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    107809.992      801.470      801.470 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#66                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.505   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       821.010     1295.300     1295.300 -  a_hmax,a_hmin,a_vert
+1    0.495   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    122039.992    19613.000    19613.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#67                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.194   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1279.800     1005.100     1005.100 -  a_hmax,a_hmin,a_vert
+1    0.806   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      8893.300     4844.700     4844.700 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#68                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.235   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       758.070     1282.300     1282.300 -  a_hmax,a_hmin,a_vert
+1    0.765   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      9492.600     3318.700     3318.700 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#69                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.129   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1091.900     1361.000     1361.000 -  a_hmax,a_hmin,a_vert
+1    0.871   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     14119.000     4924.400     4924.400 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#70                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1151.000      738.600      738.600 -  a_hmax,a_hmin,a_vert
+1    1.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      7375.800     3969.200     3969.200 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#71                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.119   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       826.840      826.840      826.840 -  a_hmax,a_hmin,a_vert
+1    0.881   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     40165.000    14942.000    14942.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#72                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.223   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       744.780      810.320      810.320 -  a_hmax,a_hmin,a_vert
+1    0.777   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     34195.000     9570.200     9570.200 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#73                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.103   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       874.730     1362.200     1362.200 -  a_hmax,a_hmin,a_vert
+1    0.897   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     38622.000     5819.400     5819.400 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#74                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.280   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1158.600      750.360      750.360 -  a_hmax,a_hmin,a_vert
+1    0.720   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     13511.000     3469.600     3469.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#75                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.161   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1177.400     1177.400     1177.400 -  a_hmax,a_hmin,a_vert
+1    0.839   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     43860.000     4656.500     4656.500 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#76                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.267   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1246.300     1124.800     1124.800 -  a_hmax,a_hmin,a_vert
+1    0.733   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     17916.000     6079.600     6079.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#77                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.069   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       741.780     1266.700     1266.700 -  a_hmax,a_hmin,a_vert
+1    0.931   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    131219.984    14483.000    14483.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#78                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.293   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1147.300     1282.000     1282.000 -  a_hmax,a_hmin,a_vert
+1    0.707   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     29317.000     4656.500     4656.500 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#79                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.055   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       792.960     1293.800     1293.800 -  a_hmax,a_hmin,a_vert
+1    0.945   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     22230.000     5457.400     5457.400 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#80                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.213   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1129.100      840.670      840.670 -  a_hmax,a_hmin,a_vert
+1    0.787   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     35514.000     6026.600     6026.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#81                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.099   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1287.500     1212.500     1212.500 -  a_hmax,a_hmin,a_vert
+1    0.901   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     35598.000    18213.000    18213.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#82                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.293   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       947.710     1202.800     1202.800 -  a_hmax,a_hmin,a_vert
+1    0.707   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    662839.938     3212.300     3212.300 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#83                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1298.900     1196.900     1196.900 -  a_hmax,a_hmin,a_vert
+1    1.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     11248.000     5199.500     5199.500 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#84                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.385   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       727.760      961.310      961.310 -  a_hmax,a_hmin,a_vert
+1    0.615   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     49569.000     5790.400     5790.400 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#85                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.092   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1127.700     1376.300     1376.300 -  a_hmax,a_hmin,a_vert
+1    0.908   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     11348.000     4626.700     4626.700 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#86                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.196   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1278.400     1077.900     1077.900 -  a_hmax,a_hmin,a_vert
+1    0.804   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     56087.000     6182.600     6182.600 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#87                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.801   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       977.940     1199.700     1199.700 -  a_hmax,a_hmin,a_vert
+1    0.199   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    522659.969     3293.500     3293.500 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#88                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.014   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1123.800     1329.500     1329.500 -  a_hmax,a_hmin,a_vert
+1    0.986   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     23943.000    29480.000    29480.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#89                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.216   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1039.600     1353.900     1353.900 -  a_hmax,a_hmin,a_vert
+1    0.784   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     12039.000     3346.100     3346.100 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#90                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.091   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1383.300      876.030      876.030 -  a_hmax,a_hmin,a_vert
+1    0.909   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      7255.600     2132.200     2132.200 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#91                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.340   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1293.500     1393.800     1393.800 -  a_hmax,a_hmin,a_vert
+1    0.660   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     96718.000     3287.100     3287.100 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#92                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1284.600     1014.100     1014.100 -  a_hmax,a_hmin,a_vert
+1    1.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      8960.300     5232.200     5232.200 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#93                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.347   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1308.000      928.180      928.180 -  a_hmax,a_hmin,a_vert
+1    0.653   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     30297.000    10310.000    10310.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#94                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.061   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1337.900      982.230      982.230 -  a_hmax,a_hmin,a_vert
+1    0.939   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    183169.984    23192.000    23192.000 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#95                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1056.300      783.570      783.570 -  a_hmax,a_hmin,a_vert
+1    1.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      6109.600      784.180      784.180 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#96                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1212.300     1212.300     1212.300 -  a_hmax,a_hmin,a_vert
+1    1.000   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      8946.900     3877.700     3877.700 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#97                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.435   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1180.800      934.180      934.180 -  a_hmax,a_hmin,a_vert
+1    0.565   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+    339829.969     2694.300     2694.300 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#98                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.405   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1124.700     1239.800     1239.800 -  a_hmax,a_hmin,a_vert
+1    0.595   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     27007.000     3344.200     3344.200 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#99                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+2    0.000                               -  nst, nugget effect
+2    0.359   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+      1023.900     1192.100     1192.100 -  a_hmax,a_hmin,a_vert
+1    0.641   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     20788.000     3440.300     3440.300 -  a_hmax,a_hmin,a_vert
+Semivariogram Model_Realization#100                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+2    0.000                               -  nst, nugget effect
+2    0.280   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+       789.240     1128.200     1128.200 -  a_hmax,a_hmin,a_vert
+1    0.720   0.0   0.0   0.0             -  it,cc,ang1,ang2,ang3
+     18662.000     3535.400     3535.400 -  a_hmax,a_hmin,a_vert
