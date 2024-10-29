@@ -1,4 +1,4 @@
-# Uncertainty-in-Spatial-Correlation
+# Variogram Inference for Widely Spaced Data
 
 This work has been published by **Mehdi Rezvandehy** and **Clayton V. Deutsch** at [Journal of Petroleum Geoscience](https://doi.org/10.1144/petgeo2016-161) https://doi.org/10.1144/petgeo2016-161. **Python** implementation for calculating uncertainty in spatial correlation (variogram) and how to incorporate this uncertainty in geostatistical modeling is presented. If you have any question about the approach and implementation, please email at [Mehdi Rezvandehy](rezvande@ualberta.ca).
 
